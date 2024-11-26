@@ -1,0 +1,5 @@
+# Ignore all .txt files
+*.txt
+
+# Ignore the object file
+kilo
